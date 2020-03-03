@@ -1,7 +1,6 @@
 package poo.example;
 
 public class SmartPhone extends Celular{
-
 	//constructor por defecto
 	public SmartPhone() {
 	}
